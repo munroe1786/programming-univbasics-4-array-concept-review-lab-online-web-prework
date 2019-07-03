@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
- array.index(2)
- array.index(4)
+ scale.index(2)
+ scale_2.index(4)
  
 end
 
